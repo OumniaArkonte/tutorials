@@ -1,0 +1,28 @@
+prompt,response,semantic_negentropy,hallucination_flag
+How many more bird families flew away to africa than those that flew away to asia?,This question cannot be answered without more information. Please provide the number of bird families that flew away to Africa and the number that flew away to Asia.,1.0,False
+How many fishes disappeared?,"Please provide me with more context! I need some information to figure out how many fish disappeared. For example, tell me:
+
+*   **Where did the fish disappear from?** (e.g., a tank, a lake, the ocean, a story)
+*   **How many fish were there originally?**
+*   **How many fish are there now?**
+
+Once I have this information, I can calculate the difference and tell you how many fish disappeared.",1.0,False
+How much did his dad's strawberries weigh now?,"Please provide context! I need more information to answer your question. For example, tell me:
+
+*   Who are you talking about? (Whose dad?)
+*   What happened to the strawberries? (Did he pick them, eat some, etc.?)
+*   What was the original weight of the strawberries?
+
+Once I have this information, I can help you calculate the current weight.",1.0,False
+How many days would the soda bottles last?,"Please provide me with more information! To figure out how many days the soda bottles would last, I need to know:
+
+*   **How many soda bottles are there?**
+*   **How many soda bottles are consumed per day?**
+
+For example, you could say:
+
+*   ""There are 10 soda bottles, and 2 are consumed each day.""
+*   ""There are 30 soda bottles, and 1 is consumed each day.""
+
+Once I have this information, I can calculate how many days the soda bottles will last.",1.0,False
+How much did she spend at the supermarket?,I can't answer the question because I don't have enough information. Please provide the details of her spending at the supermarket.,0.0,True

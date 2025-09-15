@@ -1,0 +1,4 @@
+product,vendor,price,website,description,delivery,MOQ,discounts
+Chaise ergonomique,Vendor A,$150,https://vendorA.com,Chaise de bureau,5 jours,10,10% dès 20 unités
+MacBook Pro 16,Vendor B,$2400,https://vendorB.com,Apple MacBook Pro,7 jours,5,Livraison gratuite
+Tableau blanc,Vendor C,$50,https://vendorC.com,Tableau magnétique,3 jours,2,5% dès 10 unités

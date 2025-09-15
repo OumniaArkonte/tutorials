@@ -1,0 +1,59 @@
+{
+  "client_id": "c123",
+  "name": "Alice Dupont",
+  "profile": {
+    "age": 52,
+    "risk_tolerance": "moderate",
+    "investment_horizon_years": 8,
+    "portfolio": {
+      "AAPL": 0.15,
+      "MSFT": 0.1
+    }
+  },
+  "notes": "Client prefers tech stocks, long-term horizon. Constraint: avoid crypto.",
+  "web_mentions": [
+    {
+      "title": "Alice Dupont linked to tech investments",
+      "link": "https://example.com/news1",
+      "snippet": "Alice invests in technology."
+    },
+    {
+      "title": "Interview: Alice Dupont on portfolio",
+      "link": "https://example.com/news2",
+      "snippet": "Interview about long-term strategy."
+    }
+  ],
+  "tickers_of_interest": [
+    "AAPL",
+    "MSFT"
+  ],
+  "web_coverage": 2,
+  "synthesis": "Client Alice Dupont — Risk: moderate. Portfolio tickers: ['AAPL', 'MSFT']. Public sources found: 2.",
+  "financials": {
+    "AAPL": {
+      "ticker": "AAPL",
+      "last_close": 236.6999969482422,
+      "sma20": 231.9629997253418,
+      "sma50": 221.4689614868164,
+      "volatility_annual": 0.3245560680514096,
+      "error": null
+    },
+    "MSFT": {
+      "ticker": "MSFT",
+      "last_close": 515.3599853515625,
+      "sma20": 505.38023376464844,
+      "sma50": 510.1661486816406,
+      "volatility_annual": 0.2480099697573568,
+      "error": null
+    }
+  },
+  "recommendation": {
+    "method": "rules",
+    "recommendation": "Acheter (Buy)",
+    "reasons": [
+      "Momentum positif (SMA20 > SMA50)"
+    ],
+    "confidence": 0.65,
+    "ticker": "AAPL"
+  }
+}
